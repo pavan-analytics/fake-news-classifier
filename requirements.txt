@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 tensorflow
 nltk
+=======
+streamlit
+tensorflow
+nltk
+>>>>>>> 8e1de6ec49f3350033bbb23f294a039626c0e2aa
 numpy
